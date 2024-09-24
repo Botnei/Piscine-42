@@ -41,24 +41,4 @@ Rush 01	|	[`FR Subject`](Rushs/Rush-01/Rush-01_Sujet.pdf) [`EN Subject`](Rushs/R
 Rush 02	|	[`FR Subject`](Rushs/Rush-02/Rush-02_Sujet.pdf) [`EN Subject`](Rushs/Rush-02/Rush-02_EN.pdf)| [`Rush02 Completed`](Rushs/Rush-02) [`Dictionary`](Rushs/Rush-02/Dictionary.txt)
 
 __________________________________________________________________
-<div align="center">
-	<div>
-	<img height="222em" src="https://zupimages.net/up/22/37/w8q5.png">
-	</div>
-	<div>
-	<div>
-    	</div>
-    	<div>
-  	<a href="https://www.youtube.com/watch?v=bpmeHdOvoX0" target="_blank"><img align="center" alt="LinkedIn" height="60" src="https://user-images.githubusercontent.com/81205527/157161849-01a9df02-bf32-45be-add4-122bc40b48cf.png"></a>
-	<a href="https://youtu.be/GJ0mO8P37Eg" target="_blank"><img align="center" alt="Instagram" height="60" src="https://user-images.githubusercontent.com/81205527/157161841-19ec3ab2-2c8f-4ec0-8b9d-3cd885256098.png"></a>
-	<a href = "https://youtu.be/_yrkWU6TDwQ"> <img align="center" alt="Gmail - benniebickles@proton.me" height="60" src="https://user-images.githubusercontent.com/81205527/157161831-eb9dffee-404b-4ffe-b0af-34671219f7fb.png"></a>
-	<a href="https://youtu.be/2k0SmqbBIpQ" target="_blank"><img align="center" alt="Discord" height="60" src="https://user-images.githubusercontent.com/81205527/157161820-de88dc63-61a3-4c9f-9445-07ac98bf0bc2.png"></a>
-	</div>
-</div>
-<div align="center">
-    	<div>
-	<a href="https://www.youtube.com/watch?v=bpmeHdOvoX0" target="_blank"><img align="center" alt="Eau" height="130" src="https://zupimages.net/up/22/37/uf9w.png"></a>
-	<a href="https://youtu.be/GJ0mO8P37Eg" target="_blank"><img align="center" alt="Instagram" height="150" src="https://zupimages.net/up/22/37/qinh.png"></a>
-	<a href = "https://youtu.be/_yrkWU6TDwQ"> <img align="center" alt="Gmail - benniebickles@proton.me" height="150" src="https://zupimages.net/up/22/37/onlz.png"></a>
-	</div>
-</div>
+
